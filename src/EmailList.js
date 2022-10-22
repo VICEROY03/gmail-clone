@@ -17,6 +17,9 @@ import Section from './Section'
 import EmailRow from './EmailRow'
 
 function EmailList() {
+
+    
+
     return (
         <div className='emailList'>
             <div className="emailList__settings">
